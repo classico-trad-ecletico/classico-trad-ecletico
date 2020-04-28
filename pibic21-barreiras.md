@@ -72,16 +72,9 @@ pesquisadores da cidade e nos arquivos públicos Nacional e do Estado.
 Viabilidade, recursos e metodologia
 ===================================
 
-Inserir a descrição da metodologia da pesquisa contendo os passos
-metodológicos necessários para a sua execução e para o alcance dos
-objetivos enunciados. Também devem ser descritos os recursos materiais
-(bibliografia, computadores, softwares, metodologias, equipamentos de
-laboratório, reagentes e outros materiais e equipamentos de pesquisa) e
-a infraestrutura (laboratórios, salas de pesquisa, salas de informática
-e outros espaços) disponíveis para a execução do plano de trabalho do
-aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
+Inicialmente o trabalho vai consistir em coleta de informações acerca do desenvolvimento urbano e arquitetônico de Barreiras, através de pesquisas nos acervos públicos da cidade e entrevistas com pesquisadores da região do oeste baiano. Depois disso, a catalogação dos objetos iconográficos e documentais para os estudos comparativos e produção de relatórios mensais. 
+Os recursos materiais serão fotografias antigas da região de Barreiras na Bahia, o acervo do Museu Municipal de Barreiras, o acervo pessoal da pesquisadora Ignez Pitta de Almeida, um computador, uma máquina DSLR, software para os cadastramentos urbanos e arquitetônicos (AutoCad) e softwares para manipulação de imagem e design (adobe Photoshop, Lightroom, InDesign e Illustrator. Além disso, os recursos de infraestrutura disponíveis e necessários para a realização da pesquisa são o ateliê do autor da pesquisa (João Testi), a biblioteca Folk Rocha localizada em Barreiras e a BCE da UnB.
 
-Texto com 4000 caracteres.
 
 
 Bibliografia
@@ -97,8 +90,7 @@ Texto com no máximo 2000 caracteres.
 Competências e habilidades do aluno
 ===================================
 
-Texto com no máximo 1000 caracteres.
-
+João Testi é estudante de Arquitetura e Urbanismo na Universidade de Brasília – UnB. Tem experiência na área de fotografia, design, ilustração e artes visuais. Ênfase em edição de vídeo e imagem, produção de slogans, cartazes, identidade visual, colagens, ilustração com foto, vídeo arte, bordado e fotografia. Suas linhas de foto são fotografia de arquitetura, urbanismo, moda, performance, eventos e de produções artísticas. Dentro da Arquitetura e Urbanismo, se interessa pela pesquisa teórica e iconográfica da produção histórica arquitetônica e urbanística brasileira, além da sua própria criação fotográfica na área.    
 
 Cronograma
 ==========
