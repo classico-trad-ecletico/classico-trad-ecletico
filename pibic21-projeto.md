@@ -11,8 +11,6 @@ lang  : pt-BR
 Planos de trabalho
 ==================
 
-- [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
-  Flávia Rosa de la Plata
 - [Módulos e dimensões do parcelamento urbano no Brasil do século XIX](pibic21-modulos.md):
   Daniela Matias Xavier
 - [Barreiras: urbanização numa encruzilhada do sertão](pibic21-barreiras.md):
