@@ -7,6 +7,14 @@ on:
       - dev
     paths:
       - 'docs/*'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'docs/*'
+  release:
+    types:
+      - created
 
 jobs:
   build:
