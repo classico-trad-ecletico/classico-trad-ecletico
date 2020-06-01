@@ -6,8 +6,20 @@ author:
 - name: Pedro Paulo Palazzo
   affiliation: "Programa de Pós-Graduação da FAU–UnB"
 description: >
+<<<<<<< HEAD
   <p>Este projeto de pesquisa visa a realizar uma taxonomia dos movimentos arquitetônicos da virada do século XIX no tocante às suas aspirações cosmopolitas ou nacionalistas, com ênfase no Brasil da primeira República.</p>
 keywords: [Ecletismo, Nacionalismo, História urbana]
+=======
+  Este projeto de pesquisa visa a realizar uma taxonomia dos movimentos
+  arquitetônicos da virada do século XIX no tocante às suas aspirações
+  cosmopolitas ou nacionalistas, com ênfase no Brasil da primeira República.
+keywords       : [Ecletismo, Nacionalismo, História urbana]
+bibliography   : "bibliography/biblio.bib"
+csl            : "styles/chicago-fullnote-bibliography-with-ibid.csl"
+lang           : pt-BR
+source         : 23106.067490/2018-89
+suppress-bibliography: true
+>>>>>>> master
 ---
 
 # Clássico, tradicional, eclético

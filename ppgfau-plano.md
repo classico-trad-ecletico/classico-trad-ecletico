@@ -3,9 +3,24 @@ title: "Clássico, tradicional, eclético"
 subtitle: "Arquitetura brasileira no longo século XIX"
 date: 2018-06-11
 author:
+<<<<<<< HEAD
 - name: Pedro Paulo Palazzo
   affiliation: "Programa de Pós-Graduação da FAU–UnB"
 keywords: [Ecletismo, Nacionalismo, História urbana]
+=======
+- name         : Pedro Paulo Palazzo
+  affiliation  : Programa de Pós-Graduação da FAU--UnB
+creator:
+- name         : Pedro Paulo Palazzo
+  affiliation  : Programa de Pós-graduação da Faculdade de Arquitetura e Urbanismo  
+  email        : palazzo@unb.br
+keywords       : [Ecletismo, Nacionalismo, História urbana]
+bibliography: bibliography/biblio.bib
+csl            : "styles/chicago-fullnote-bibliography-with-ibid.csl"
+lang           : pt-BR
+source         : 23106.067490/2018-89
+suppress-bibliography: true
+>>>>>>> master
 ---
 
 # Clássico, tradicional, eclético
