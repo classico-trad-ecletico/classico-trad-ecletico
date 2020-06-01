@@ -44,7 +44,7 @@ jobs:
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:3.8.5 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
   gh-pages:
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
     needs: test_build
     if: github.event_name == 'push' && github.repository == 'dmcpatrimonio/arqtrad'
     - name: Checkout gh-pages branch
