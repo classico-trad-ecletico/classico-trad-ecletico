@@ -7,7 +7,7 @@ author:
     Universidade de Brasília"
 date        : 2020-03-31
 bibliography: bibliography/biblio.bib
-csl         : "lib/styles/associacao-brasileira-de-normas-tecnicas.csl"
+csl         : "styles/associacao-brasileira-de-normas-tecnicas.csl"
 lang        : pt-BR
 suppress-bibliography: False
 ---
