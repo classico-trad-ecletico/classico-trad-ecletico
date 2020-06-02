@@ -2,28 +2,18 @@
 # ================
 # Where make should look for things
 VPATH = lib
-vpath %.csl lib/styles
-vpath %.yaml .:spec:docs/_data
-vpath default.% lib/templates:lib/pandoc-templates
-vpath reference.% lib/templates:lib/pandoc-templates
-# Edit the path below to point to the location of your binary files.
-SHARE = ~/integra/arqtrad
+vpath %.csl styles
+vpath %.yaml .:spec:_data
+vpath default.% lib:lib/templates:lib/pandoc-templates
+vpath reference.% lib:lib/templates:lib/pandoc-templates
 
 # Branch-specific targets and recipes {{{1
 # ===================================
-
-# This is the first recipe in the Makefile. As such, it is the one that
-# runs when calling 'make' with no arguments. List as its requirements
-# anything you want to build (deploy) for release.
-publish : setup _site/index.html  _book/6enanparq.docx
 
 # Jekyll {{{2
 # ------
 PAGES_SRC  = $(wildcard *.md)
 PAGES_OUT := $(patsubst %,tmp/%, $(PAGES_SRC))
-
-serve : _site/.nojekyll
-	bundle exec jekyll serve 2>&1 | egrep -v 'deprecated|obsoleta'
 
 build: $(PAGES_OUT)
 	bundle exec jekyll build 2>&1 | egrep -v 'deprecated|obsoleta'
@@ -56,16 +46,15 @@ _book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
 # Figuras a partir de vetores {{{2
 # ---------------------------
 
-fig/%.png : %.svg
+figures/%.png : %.svg
 	inkscape -f $< -e $@ -d 96
 
 # Install and cleanup {{{1
 # ===================
-.PHONY : link-template clean
+.PHONY : serve link-template clean
 
-# New repo from template {{{2
-# ----------------------
-# Recipes to use when starting a new repository from the template.
+serve : 
+	bundle exec jekyll serve 2>&1 | egrep -v 'deprecated|obsoleta'
 
 link-template :
 	# Generating a repo from a GitHub template breaks the
@@ -81,13 +70,13 @@ link-template :
 
 license :
 	source .venv/bin/activate && \
-		lice --header cc_by_sa >> README.md && \
-		lice cc_by_sa -f LICENSE
+		lice --header cc_by >> README.md && \
+		lice cc_by -f LICENSE
 
 # `make clean` will clear out a few standard folders where only compiled
 # files should be. Anything you might have placed manually in them will
 # also be deleted!
 clean :
-	-rm -rf _site *.tmp
+	-rm -rf _site tmp
 
 # vim: set foldmethod=marker tw=72 :
