@@ -6,8 +6,8 @@ author:
   affiliation: "Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
     Universidade de Brasília"
 date        : 2020-03-31
-bibliography: biblio.bib
-csl         : "lib/styles/associacao-brasileira-de-normas-tecnicas.csl"
+bibliography: bibliography/biblio.bib
+csl         : "styles/associacao-brasileira-de-normas-tecnicas.csl"
 lang        : pt-BR
 suppress-bibliography: False
 ---

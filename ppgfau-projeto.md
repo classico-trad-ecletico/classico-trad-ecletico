@@ -10,8 +10,8 @@ description: >
   arquitetônicos da virada do século XIX no tocante às suas aspirações
   cosmopolitas ou nacionalistas, com ênfase no Brasil da primeira República.
 keywords       : [Ecletismo, Nacionalismo, História urbana]
-bibliography   : "biblio.bib"
-csl            : "lib/styles/chicago-fullnote-bibliography-with-ibid.csl"
+bibliography   : "bibliography/biblio.bib"
+csl            : "styles/chicago-fullnote-bibliography-with-ibid.csl"
 lang           : pt-BR
 source         : 23106.067490/2018-89
 suppress-bibliography: true
