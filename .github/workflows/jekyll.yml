@@ -49,6 +49,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     if: github.event_name == 'push' && github.repository == 'dmcpatrimonio/arqtrad'
+    env:
+      commit_message: ${{ github.event.head_commit.message }}
     steps:
     - name: Checkout gh-pages branch
       uses: actions/checkout@v2
