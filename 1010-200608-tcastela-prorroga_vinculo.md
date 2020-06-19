@@ -1,19 +1,15 @@
 ---
-title: Prorrogação de pós-doutorado por meio de interrupção da licença
-date : 2020-06-17
-sei:
-- id: 23106.091353/2019-46
-- id: 23106.066581/2019-88
-  name: Período de afastamento inicial
+title: "Prorrogação de pós-doutorado por meio de interrupção da licença"
+date: 2020-06-17
 ---
 
-::: {.date}
+<div class="date">
 
 Coimbra, 17 de junho de 2020
 
-:::
+</div>
 
-Estimado Dr. Tiago Castela,
+Estimado Dr. Tiago Castela,
 
 Na sequência dos contactos que temos travado, venho propor a si e ao
 Conselho Científico do Centro de Estudos Sociais da Universidade de
@@ -22,11 +18,11 @@ Universidade de Coimbra até a data de 18 de dezembro de 2020.
 
 O pedido de prorrogação é fundamentado nas dificuldades impostas pelo
 estado de emergência sanitária decretado pelo governo de Portugal, na
-forma do Decreto do presidente da República n.º 14-A, que teve efeito
-de 18 de março a 1.º de maio de 2020, bem como pelas subsequentes
-restrições impostas pelo estado de calamidade que vigora desde então. O
-projeto de investigação *Raízes portuguesas da arquitetura brasileira na
-Belle Époque: estilo, política e construção,* que desenvolvo no CES,
+forma do Decreto do presidente da República n.º 14-A, que teve efeito de
+18 de março a 1.º de maio de 2020, bem como pelas subsequentes
+restrições impostas pelo estado de calamidade que vigora desde então.
+O projeto de investigação *Raízes portuguesas da arquitetura brasileira
+na Belle Époque: estilo, política e construção,* que desenvolvo no CES,
 teve sua componente documental obstada pelo encerramento de arquivos e
 pela dificuldade em realizar viagens de estudos, ações previstas no
 projecto original desta investigação, que anexo para memória.
@@ -44,10 +40,10 @@ esclarecimentos e atividades oportunas.
 
 Atenciosamente,
 
-::: {.sig}
+<div class="sig">
 
-| Pedro Paulo Palazzo
-| palazzo@unb.br · pedro.palazzo@uc.pt
-| +351 914 896 380
+Pedro Paulo Palazzo  
+palazzo@unb.br · pedro.palazzo@uc.pt  
+\+351 914 896 380
 
-:::
+</div>
