@@ -11,14 +11,12 @@ author:
   affiliation: ""
 ---
 
-  - [Em busca de (uma?) arquitetura tradicional
-    brasileira](6enanparq-palazzo.md)  
+  - [Em busca de (uma?) arquitetura tradicional brasileira](6enanparq-palazzo.md)  
     **PALAZZO, Pedro Paulo**
     Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
     Universidade de Brasília
     <palazzo@unb.br>
-  - [A arquitectura e o urbanismo tradicionais da ilha do Pico,
-    Açores](6enanparq-florentino.md)  
+  - [A arquitectura e o urbanismo tradicionais da ilha do Pico, Açores](6enanparq-florentino.md)  
     **FLORENTINO, Rui**
     Doutor; Professor Auxiliar e Coordenador da linha de Investigação de
     Urbanismo e Planeamento do Centro de Investigação da Escola Superior
@@ -28,8 +26,7 @@ author:
     **GIL Cornet, Leopoldo**
     Arquiteto; Sección de Patrimonio Arquitectónico, Gobierno de Navarra
     <lgilcorn@navarra.es>
-  - [Conservação do patrimônio construído: protocolos de boas
-    práticas](6enanparq-tinoco.md)  
+  - [Conservação do patrimônio construído: protocolos de boas práticas](6enanparq-tinoco.md)  
     **TINOCO, Jorge Eduardo Lucena**
     Doutor; Professor no Centro de Estudos avançados da Conservação
     Integrada
@@ -109,19 +106,19 @@ e urbanismo na constituição e no emprego crítico desses repertórios tem
 especial relevância para todos os participantes aqui reunidos.
 
 No Brasil, a arquitetura tradicionalista alicerçou o assim chamado
-“estilo patrimônio” de intervenções em sítios históricos realizadas
-pelo Iphan até a segunda metade do século XX; a este tradicionalismo de
+“estilo patrimônio” de intervenções em sítios históricos realizadas pelo
+Iphan até a segunda metade do século XX; a este tradicionalismo de
 inspiração neocolonial se deve a atual aparência de locais como Ouro
 Preto, Paraty e São Luiz do Paraitinga. A rejeição tardia do “estilo
 patrimônio”, em nome da adesão aos preceitos teóricos modernistas das
 Cartas de Atenas (1931) e de Veneza (1964), levanta contradições ainda
-não devidamente avaliadas frente à mais recente problemática em torno
-da salvaguarda de práticas sociais e saberes profissionais,
-indispensáveis à valorização e à conservação do patrimônio cultural. O
-debate acerca da continuidade cultural implicada pelas tradições
-arquitetônicas torna-se ainda mais necessário nos âmbitos do estudo
-historiográfico e da preservação da arquitetura moderna que emprega os
-estilos ecléticos, assim como daquela do pós-modernismo.
+não devidamente avaliadas frente à mais recente problemática em torno da
+salvaguarda de práticas sociais e saberes profissionais, indispensáveis
+à valorização e à conservação do patrimônio cultural. O debate acerca da
+continuidade cultural implicada pelas tradições arquitetônicas torna-se
+ainda mais necessário nos âmbitos do estudo historiográfico e da
+preservação da arquitetura moderna que emprega os estilos ecléticos,
+assim como daquela do pós-modernismo.
 
 Se há, de fato, uma apropriação sobretudo estética do tradicionalismo em
 empreendimentos imobiliários especulativos, como no efêmero “neoclássico

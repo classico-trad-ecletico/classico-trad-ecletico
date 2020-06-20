@@ -100,9 +100,9 @@ los maineles más deteriorados con mortero de restitución, para
 devolverles la dignidad perdida.
 
 Uno de los trabajos que ha despertado mayor interés ha sido la
-reposición, mediante reproducción facsímil en papel gel, de las
-pinturas murales que fueron arrancadas de las paredes del claustro, en
-1947, para ser llevadas al Museo de Navarra.
+reposición, mediante reproducción facsímil en papel gel, de las pinturas
+murales que fueron arrancadas de las paredes del claustro, en 1947, para
+ser llevadas al Museo de Navarra.
 
 Una vez reproducidas, la discusión sobre su autenticidad resulta
 inevitable ¿Cuáles son más auténticas? ¿Las pinturas reproducidas o las

@@ -3,8 +3,7 @@ title: "Conservação do patrimônio construído: protocolos de boas práticas"
 date: 2020-04-14
 author:
 - name: Jorge Eduardo Lucena Tinoco
-  affiliation: "Doutor; Professor no Centro de Estudos avançados da Conservação
-Integrada"
+  affiliation: "Doutor; Professor no Centro de Estudos avançados da Conservação Integrada"
 ---
 
 # Conservação do patrimônio construído: protocolos de boas práticas
@@ -13,16 +12,16 @@ O compromisso com a utilização das boas práticas, em qualquer campo do
 conhecimento, é a garantia de se trabalhar bem e produzir bons
 resultados. As boas práticas são recomendadas como um modelo para se
 obter o melhor benefício com base na experiência acumulada. As boas
-práticas no contexto da conservação do patrimônio construído são
-aquelas que privilegiam condutas que garantam a integridade e a
-autenticidade do bem cultural. A “boa prática” não deve ser considerada
-apenas um termo da moda para designar simplesmente um processo ou uma
-metodologia que representa a forma mais eficaz de atingir um objetivo
-específico. O termo deve, preferencialmente, ser empregado no plural
-“boas práticas”, pelo fato de ser discutível se existe uma abordagem
-única e melhor para se atingir um fim. Uma definição adequada é de que
-as boas práticas são aquelas que têm provado trabalhar bem e produzir
-bons resultados e que, portanto, podem ser recomendadas como modelos.
+práticas no contexto da conservação do patrimônio construído são aquelas
+que privilegiam condutas que garantam a integridade e a autenticidade do
+bem cultural. A “boa prática” não deve ser considerada apenas um termo
+da moda para designar simplesmente um processo ou uma metodologia que
+representa a forma mais eficaz de atingir um objetivo específico. O
+termo deve, preferencialmente, ser empregado no plural “boas práticas”,
+pelo fato de ser discutível se existe uma abordagem única e melhor para
+se atingir um fim. Uma definição adequada é de que as boas práticas são
+aquelas que têm provado trabalhar bem e produzir bons resultados e que,
+portanto, podem ser recomendadas como modelos.
 
 A adoção das boas práticas da conservação pode ampara-se nos preceitos
 contemporâneos da significância do bem cultural e da sustentabilidade

@@ -21,27 +21,25 @@ lusófona e “o Reino”. São objetivos específicos deste plano:
     urbanização no Brasil do século XIX nos âmbitos familiar, acadêmico
     e profissional;
   - Confrontar, sob aspectos morfológicos e de procedimentos de
-    urbanização, os planos urbanos concebidos no Brasil ao longo do
-    século XIX com aqueles elaborados em Portugal e no Império
-    português na mesma época.
+    urbanização, os planos urbanos concebidos no Brasil ao longo do século
+    XIX com aqueles elaborados em Portugal e no Império português na mesma
+    época.
 
 A prática urbanística “corrente” da tradição luso-brasileira é formada
 por um conjunto de saberes profissionais e de legislação civil que se
 transforma gradualmente, desde seus primórdios no século XIII
-(<span class="citeproc-not-found" data-reference-id="trindade:2013urbanismo">**???**</span>)
-até a introdução das reformas urbanas monumentais, de inspiração
-francesa, em finais do século XIX
-(<span class="citeproc-not-found" data-reference-id="pereira:1998reforma">**???**</span>).
-Essa prática é da alçada, sobretudo, dos engenheiros militares, mas
-também de construtores e incorporadores civis em ambas as margens do
-Atlântico. O corpo dos paradigmas técnicos e normativos portugueses,
-consolidado na época pombalina (1750–1777), apresenta ao longo do século
-XIX sucessivas reformas que não fazem, porém, as práticas portuguesa e
-brasileira divergirem significativamente após a Independência. Mais
-ainda, a circulação de profissionais e de ideias entre os dois países
-persiste ao longo do período imperial, permitindo que se consolide uma
-tradição urbanística luso-brasileira diante dos desafios sociais e
-técnicos da modernidade.
+(<span class="citeproc-not-found" data-reference-id="trindade:2013urbanismo">**???**</span>) até a introdução das reformas urbanas
+monumentais, de inspiração francesa, em finais do século XIX
+(<span class="citeproc-not-found" data-reference-id="pereira:1998reforma">**???**</span>). Essa prática é da alçada, sobretudo, dos
+engenheiros militares, mas também de construtores e incorporadores civis
+em ambas as margens do Atlântico. O corpo dos paradigmas técnicos e
+normativos portugueses, consolidado na época pombalina (1750–1777),
+apresenta ao longo do século XIX sucessivas reformas que não fazem,
+porém, as práticas portuguesa e brasileira divergirem significativamente
+após a Independência. Mais ainda, a circulação de profissionais e de
+ideias entre os dois países persiste ao longo do período imperial,
+permitindo que se consolide uma tradição urbanística luso-brasileira
+diante dos desafios sociais e técnicos da modernidade.
 
 Partindo dessas premissas, este plano de trabalho busca identificar
 alguns dos pontos de contato entre Portugal e Brasil na prática
@@ -65,10 +63,10 @@ Esta pesquisa será dividida em duas partes:
     principais engenheiros militares e governantes comprometidos com
     projetos urbanísticos no Brasil no século XIX.
 
-  - Comparar os planos urbanísticos produzidos no Brasil durante o
-    século XIX com aqueles elaborados em Portugal e no Império
-    português na mesma época. Estudar estes projetos sob aspectos
-    morfológicos e de procedimentos de urbanização.
+  - Comparar os planos urbanísticos produzidos no Brasil durante o século
+    XIX com aqueles elaborados em Portugal e no Império português na mesma
+    época. Estudar estes projetos sob aspectos morfológicos e de
+    procedimentos de urbanização.
 
 O objetivo desta pesquisa é fazer uma análise histórica e urbanística no
 intervalo de tempo do século XIX, das relações luso-brasileiras tanto no
@@ -143,22 +141,18 @@ tive experiência prática em um Projeto de Extensão por um semestre em
 semestre de 2019 fui monitora para a disciplina de Projeto de Urbanismo.
 
 Sou fluente em 4 idiomas, estes são: português, espanhol, inglês e
-francês. Ademais, atualmente estudo de forma autônoma a língua
-italiana.
+francês. Ademais, atualmente estudo de forma autônoma a língua italiana.
 
 Acredito que este projeto de pesquisa acrescentaria novas competências e
 conhecimentos essenciais para minha futura trajetória acadêmica.
 
 # Cronograma
 
-Agosto/2020 – FUNDAMENTAÇÃO, PESQUISA BIBLIOGRÁFICA E DEFINIÇÃO DO
-PROBLEMA
+Agosto/2020 – FUNDAMENTAÇÃO, PESQUISA BIBLIOGRÁFICA E DEFINIÇÃO DO PROBLEMA
 
-Setembro/2020 – FUNDAMENTAÇÃO, PESQUISA BIBLIOGRÁFICA E DEFINIÇÃO DO
-PROBLEMA
+Setembro/2020 – FUNDAMENTAÇÃO, PESQUISA BIBLIOGRÁFICA E DEFINIÇÃO DO PROBLEMA
 
-Outubro/2020 – FUNDAMENTAÇÃO, PESQUISA BIBLIOGRÁFICA E DEFINIÇÃO DO
-PROBLEMA
+Outubro/2020 – FUNDAMENTAÇÃO, PESQUISA BIBLIOGRÁFICA E DEFINIÇÃO DO PROBLEMA
 
 Novembro/2020 – PESQUISA DE CAMPO E COLETA DE DADOS
 
@@ -166,20 +160,15 @@ Dezembro/2020 – PESQUISA DE CAMPO E COLETA DE DADOS
 
 Janeiro/2021 – PESQUISA DE CAMPO E COLETA DE DADOS
 
-Fevereiro/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Introdução -
-Formular o problema
+Fevereiro/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Introdução - Formular o problema
 
-Março/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Introdução -
-Formular hipóteses e termos
+Março/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Introdução - Formular hipóteses e termos
 
-Abril/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Introdução /
-Desenvolvimento - Estabelecer bases teóricas
+Abril/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Introdução / Desenvolvimento - Estabelecer bases teóricas
 
-Maio/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Desenvolvimento -
-Apresentar os dados levantados e analisá-los
+Maio/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Desenvolvimento - Apresentar os dados levantados e analisá-los
 
-Junho/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Desenvolvimento /
-Conclusão - Interpretar os dados
+Junho/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Desenvolvimento / Conclusão - Interpretar os dados
 
 Julho/2021 – REVISÃO
 
@@ -191,11 +180,9 @@ CENTRO UNIVERSITÁRIO DE BRASÍLIA (UNICEUB)
 
 Departamento: FATECS / Curso: ARQUITETURA E URBANISMO
 
-Título do plano de trabalho: Conexões portuguesas na produção
-urbanística corrente do século XIX
+Título do plano de trabalho: Conexões portuguesas na produção urbanística corrente do século XIX
 
-Projeto de Extensão: projeto de extensão Morada de Luz de Assistência
-Técnica em Habitação de Interesse Social para moradores do Sol
+Projeto de Extensão: projeto de extensão Morada de Luz de Assistência Técnica em Habitação de Interesse Social para moradores do Sol
 
 Nascente - UniCEUB em parceria com a CODHAB - 1° semestre de 2019
 

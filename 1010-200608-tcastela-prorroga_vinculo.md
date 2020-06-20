@@ -18,11 +18,11 @@ Universidade de Coimbra até a data de 18 de dezembro de 2020.
 
 O pedido de prorrogação é fundamentado nas dificuldades impostas pelo
 estado de emergência sanitária decretado pelo governo de Portugal, na
-forma do Decreto do presidente da República n.º 14-A, que teve efeito de
-18 de março a 1.º de maio de 2020, bem como pelas subsequentes
-restrições impostas pelo estado de calamidade que vigora desde então.
-O projeto de investigação *Raízes portuguesas da arquitetura brasileira
-na Belle Époque: estilo, política e construção,* que desenvolvo no CES,
+forma do Decreto do presidente da República n.º 14-A, que teve efeito
+de 18 de março a 1.º de maio de 2020, bem como pelas subsequentes
+restrições impostas pelo estado de calamidade que vigora desde então. O
+projeto de investigação *Raízes portuguesas da arquitetura brasileira na
+Belle Époque: estilo, política e construção,* que desenvolvo no CES,
 teve sua componente documental obstada pelo encerramento de arquivos e
 pela dificuldade em realizar viagens de estudos, ações previstas no
 projecto original desta investigação, que anexo para memória.
