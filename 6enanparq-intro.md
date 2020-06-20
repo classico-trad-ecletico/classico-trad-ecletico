@@ -35,7 +35,7 @@ author:
     Integrada
     <tinoco@ceci-br.org>
 
-## Tradições arquitetônicas na contemporaneidade
+# Tradições arquitetônicas na contemporaneidade
 
 Os discursos tradicionalistas na arquitetura contemporânea se
 transformaram e se diversificaram radicalmente nas quatro últimas

@@ -8,7 +8,7 @@ Urbanismo e Planeamento do Centro de Investigação da Escola Superior
 Gallaecia"
 ---
 
-## A arquitectura e o urbanismo tradicionais da ilha do Pico, Açores
+# A arquitectura e o urbanismo tradicionais da ilha do Pico, Açores
 
 As áreas classificadas pela UNESCO enquanto paisagens culturais estão
 presentes em muitos lugares. Em certos casos, integram a arquitetura

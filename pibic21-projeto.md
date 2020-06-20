@@ -6,7 +6,7 @@ author:
   affiliation: ""
 ---
 
-## Planos de trabalho
+# Planos de trabalho
 
   - [Módulos e dimensões do parcelamento urbano no Brasil do século
     XIX](pibic21-modulos.md): Daniela Matias Xavier
@@ -17,9 +17,9 @@ author:
   - [Casas de câmara e cadeia do planalto Central e
     adjacências](pibic21-camaras.md): Maria Isabela Alves de Araújo
 
-## Resumo do projeto de pesquisa
+# Resumo do projeto de pesquisa
 
-### Problema e objetivos
+## Problema e objetivos
 
 Este projeto de pesquisa versa sobre a produção arquitetônica e
 urbanística de 1780 a 1930, com ênfase na formação dos campos de
@@ -100,7 +100,7 @@ discussões verdadeiramente públicas.
     arquitetura luso-brasileira no longo século XIX, capaz de dar conta
     tanto da teorização erudita quanto das práticas vernáculas;
 
-### Justificativa
+## Justificativa
 
 Uma das obras de referência sobre a história do pensamento
 arquitetônico, a *História da teoria da arquitetura* de Hanno-Walter
@@ -187,7 +187,7 @@ atravessamentos de repertórios e práticas entre a tradição vernácula
 luso-brasileira e os discursos teóricos e críticos atinentes à esfera
 erudita e de elite.
 
-### Metodologia
+## Metodologia
 
 De modo a retratar o panorama teórico e edificado do período estudado,
 privilegiam-se abordagens formalistas na análise das fontes. A ênfase
@@ -271,7 +271,7 @@ arquitetura brasileira no longo século XIX (1780–1930), com foco no
 papel do ecletismo como momento crucial nas abordagens críticas a
 respeito do caráter histórico do ambiente construído.
 
-### Bibliografia crítica
+## Bibliografia crítica
 
 <div id="refs" class="references hanging-indent">
 

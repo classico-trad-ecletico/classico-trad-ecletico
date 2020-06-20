@@ -6,9 +6,9 @@ author:
   affiliation: "Arquiteto; Sección de Patrimonio Arquitectónico, Gobierno de Navarra"
 ---
 
-## La restauración monumental
+# La restauración monumental
 
-### Introducción
+## Introducción
 
 Hay un principio general que no se suele considerar y que sin embargo
 resulta muy útil al enfrentarse con un proyecto de restauración
@@ -67,7 +67,7 @@ problema de forma, es un problema de relación. Y en el caso de la
 restauración monumental son relaciones ineludibles las que se refieren a
 los valores esenciales del monumento.
 
-### La restauración del claustro de la catedral de Pamplona
+## La restauración del claustro de la catedral de Pamplona
 
 En la restauración del claustro de la catedral (2015-2020) se han puesto
 en practica las ideas expuestas más arriba y se ha puesto en crisis la

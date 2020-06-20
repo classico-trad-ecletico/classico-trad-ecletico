@@ -1,12 +1,12 @@
 ---
-title: "Casas de câmara e cadeia do planalto Central e adjacências"
+title: "Casas de câmara e cadeia no planalto Central e adjacências"
 date: 2020-05-21
 author:
 - name: 
   affiliation: ""
 ---
 
-## Objetivos, problema e justificativa
+# Objetivos, problema e justificativa
 
 Este plano de trabalho se dedica ao estudo das casas de Câmara e Cadeia
 construídas no planalto Central e imediações, em sua maioria
@@ -47,7 +47,7 @@ pesquisa e ao nível de pesquisa de iniciação científica.
 
 Texto com 5000 caracteres.
 
-## Viabilidade, recursos e metodologia
+# Viabilidade, recursos e metodologia
 
 Inserir a descrição da metodologia da pesquisa contendo os passos
 metodológicos necessários para a sua execução e para o alcance dos
@@ -60,7 +60,7 @@ aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
 
 Texto com 4000 caracteres.
 
-## Bibliografia
+# Bibliografia
 
 Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
 do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
@@ -68,10 +68,10 @@ do(a) Orientador(a)
 
 Texto com no máximo 2000 caracteres.
 
-## Competências e habilidades
+# Competências e habilidades
 
 Texto com no máximo 1000 caracteres.
 
-## Cronograma
+# Cronograma
 
 Mês a mês

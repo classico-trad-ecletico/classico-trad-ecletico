@@ -7,7 +7,7 @@ author:
 Universidade de Brasília"
 ---
 
-## Em busca de (uma?) arquitetura tradicional brasileira
+# Em busca de (uma?) arquitetura tradicional brasileira
 
 *Por que* uma arquitetura tradicional brasileira? Justamente porque esta
 questão, posta no âmbito da Arquitetura como disciplina prática e objeto
@@ -119,7 +119,7 @@ tradição sem cair numa — interminável — regressão às origens, nem numa
 indesejável teleologia que se sirva do passado apenas à luz da ideologia
 hegemônica no presente.
 
-### Referências
+## Referências
 
 <div id="refs" class="references">
 
