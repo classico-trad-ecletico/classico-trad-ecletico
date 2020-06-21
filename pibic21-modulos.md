@@ -487,6 +487,12 @@ PINHO, P.; OLIVEIRA, V. Different Approaches in the Study of Urban Form. **Journ
 
 </div>
 
+<div id="ref-reisfilho:1969lote">
+
+REIS FILHO, N. G. **Lote urbano e a arquitetura no brasil**. SÃ£o Paulo: FAU/USP, 1969. 
+
+</div>
+
 <div id="ref-rio:2009contemporary">
 
 RIO, V. DEL; SIEMBIEDA, W. J. (EDS.). **Contemporary Urbanism in Brazil: Beyond Brasília**. Gainesville: University Press of Florida, 2009. 
@@ -496,6 +502,12 @@ RIO, V. DEL; SIEMBIEDA, W. J. (EDS.). **Contemporary Urbanism in Brazil: Beyond 
 <div id="ref-rossa:2006questoes">
 
 ROSSA, W.; TRINDADE, L. Questões e antecedentes da "Cidade Portuguesa": o conhecimento sobre o urbanismo medieval e a sua expressão morfológica. **Murphy : revista de história e teoria da arquitectura e do urbanismo**, n. 1, p. 70–109, 2006. 
+
+</div>
+
+<div id="ref-saia:1977sao">
+
+SAIA, L.; TRINDADE, J. B. **São Luis do Paraitinga: levantamento métrico-arquitetônico e fotografico, e estudos da formação de uma cidade tradicional paulista**. São Paulo: Secretaria da Cultura, Ciência e Tecnologia/Governo do Estado de S.Paulo, 1977. 
 
 </div>
 
@@ -557,32 +569,23 @@ VASCONCELOS, P. DE A. **Salvador: Transformações e Permanências (1549-1999)**
 
 # Competências e habilidades
 
-A estudante Daniela Matias Xavier cursa atualmente o 8.º semestre do
-curso de graduação em Arquitetura e Urbanismo.
+Daniela Xavier cursa atualmente o 8.º semestre da graduação em
+Arquitetura e Urbanismo na UnB. Obteve menção SS em Arquitetura e
+Urbanismo no Brasil Colônia e Império, Projeto de Urbanismo 1 e
+Modelagem da Informação da Construção (BIM), tendo feito monitoria nesta
+última. Todas são disciplinas de fundamentação para esta pesquisa e
+demonstram sua capacidade e interesse pelo tema.
 
-O percorrer da graduação trouxe aprendizados que auxiliarão na pesquisa,
-tais como conhecimento nos Softwares Qgis, Revit, Autocad, Illustrator,
-SketchUp, V-ray, Lumion, Photoshop, Indesign, ArchiCAD e Pacote Office.
-
-Acrescenta-se a prática com indexação e análise de conteúdo de plantas
-históricas, adquiridas ao estagiar no Ministério das Relações
-exteriores. E experiência próxima a projeto de pesquisa, na realização
-de PIBEX, sendo orientada pela professora Rosana Stockler.
-
-Em relação as matérias complementares ao conteúdo, a estudante dispôs de
-um bom rendimento acadêmico, com as menções SS em Arquitetura e
-Urbanismo no Brasil Colônia e império, Projeto de Urbanismo 1 e
-Modelagem da Informação da Construção – BIM, que são matérias
-complementares ao conteúdo do Projeto de pesquisa. Fez monitoria em
-Modelagem da Informação da Construção – BIM e Projeto Arquitetônico 1.
+Domina todos os programas necessários a esta pesquisa, em especial o
+QGIS para georreferenciamento e análise dos objetos. Acrescenta-se a
+prática com indexação e análise de conteúdo de plantas históricas,
+adquiridas ao estagiar no Ministério das Relações Exteriores, e
+experiência com um projeto de extensão em tecnologia.
 
 Participou e foi uma das selecionadas no 1º Concurso de Fotografia do
-CAU/GO, com o tema “Patrimônio Histórico na Arquitetura e Urbanismo”.
-
-Possui interesse na área acadêmica da pesquisa, disposta e determinada a
-contribuir com o desenvolvimento de um estudo de grande importância para
-a história arquitetônica e urbanística do Brasil e na disseminação do
-conhecimento e a preservação do passado.
+CAU/GO, com o tema “Patrimônio Histórico na Arquitetura e Urbanismo”,
+demonstrando seu interesse e familiaridade com as cidades históricas
+brasileiras.
 
 # Cronograma
 
