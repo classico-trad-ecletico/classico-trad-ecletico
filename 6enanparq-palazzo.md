@@ -1,12 +1,12 @@
 ---
-layout      : notitle
 title       : "Em busca de (uma?) arquitetura tradicional brasileira"
+layout      : notitle
 author:
 - name: "Pedro Paulo Palazzo"
   affiliation: "Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
     Universidade de Brasília"
 date        : 2020-03-31
-bibliography: bibliography/biblio.bib
+bibliography: "6enanparq-palazzo.bib"
 csl         : "styles/associacao-brasileira-de-normas-tecnicas.csl"
 lang        : pt-BR
 suppress-bibliography: False
