@@ -28,9 +28,9 @@ lusófona e “o Reino”. São objetivos específicos deste plano:
 A prática urbanística “corrente” da tradição luso-brasileira é formada
 por um conjunto de saberes profissionais e de legislação civil que se
 transforma gradualmente, desde seus primórdios no século XIII
-(<span class="citeproc-not-found" data-reference-id="trindade:2009urbanismo">**???**</span>) até a introdução das reformas urbanas
+(TRINDADE, [2009](#ref-trindade:2009urbanismo)) até a introdução das reformas urbanas
 monumentais, de inspiração francesa, em finais do século XIX
-(<span class="citeproc-not-found" data-reference-id="pereira:1998reforma">**???**</span>). Essa prática é da alçada, sobretudo, dos
+(PEREIRA, [1998](#ref-pereira:1998reforma)). Essa prática é da alçada, sobretudo, dos
 engenheiros militares, mas também de construtores e incorporadores civis
 em ambas as margens do Atlântico. O corpo dos paradigmas técnicos e
 normativos portugueses, consolidado na época pombalina (1750–1777),
@@ -146,6 +146,12 @@ OLIVEIRA, I. A. DE. **Elementos Da Matriz Urbana Portuguesa Em Goiás: Vila Boa 
 
 </div>
 
+<div id="ref-pereira:1998reforma">
+
+PEREIRA, S. G. **A reforma urbana de Pereira Passos e a construção da identidade carioca**. Rio de Janeiro: Universidade Federal do Rio de Janeiro : Escola de Belas Artes, 1998. 
+
+</div>
+
 <div id="ref-pereiraalencararrais:2005escrevendo">
 
 PEREIRA ALENCAR ARRAIS, R. Escrevendo e cartografando a cidade do Recife na passagem para o século XX. **Cahiers des Amériques latines**, n. 48-49, p. 223–241, 31 jan. 2005. 
@@ -161,6 +167,12 @@ SCHMIDT, B. V. Modernization and Urban Planning in 19th-Century Brazil. **Curren
 <div id="ref-torrao:2014nomes">
 
 TORRÃO FILHO, A. Os nomes de Tamara. Retratos da cidade luso-brasileira na literatura de viagem de inícios do século XIX. **Cadernos de Pesquisa do CDHIS**, v. 27, n. 2, p. 129–148, jul. 2014. 
+
+</div>
+
+<div id="ref-trindade:2009urbanismo">
+
+TRINDADE, L. **Urbanismo na composição de Portugal**. Tese (doutoramento) em História da Arte—\[s.l.\] Faculdade de Letras da Universidade de Coimbra, 2009.
 
 </div>
 
