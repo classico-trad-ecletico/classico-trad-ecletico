@@ -2,8 +2,7 @@
 title: "Trajetória"
 ---
 
-Trajetória acadêmica
-====================
+# Trajetória acadêmica
 
 Minha formação acadêmica caracterizou-se pelo encadeamento
 de atividades direcionadas, desde o início, para uma
@@ -19,7 +18,7 @@ Tendo a oportunidade de realizar integralmente minha
 graduação no exterior, escolhi
 a Universidade de Maryland (Estados Unidos) devido
 à combinação, no seu currículo, de uma abertura para estudos
-de arquitetura tradicional --- histórica e contemporânea ---
+de arquitetura tradicional — histórica e contemporânea —
 tanto quanto do modernismo, além de abordagens
 interdisciplinares. Cursei, durante a graduação, disciplinas
 do currículo de mestrado em Patrimônio cultural e em
@@ -48,8 +47,8 @@ do início do século XX.
 
 Iniciei
 o doutorado explorando as raízes dos debates clássicos sobre
-autoridade arquitetônica na França do século XVII --- tema
-que seria afunilado, por ocasião de um estágio "sanduíche"
+autoridade arquitetônica na França do século XVII — tema
+que seria afunilado, por ocasião de um estágio “sanduíche”
 na Universidade de Paris IV, financiado pela CAPES, para uma
 análise dos debates historiográficos em torno da Colunata do
 Louvre. Essa nova abordagem fez-me avançar até o século XIX
@@ -63,22 +62,20 @@ o universo da arquitetura histórica na região de Brasília,
 coordenando atividades curriculares e de extensão no centro
 histórico de Planaltina.
 
-Ambas essas preocupações --- com as interfaces entre
+Ambas essas preocupações — com as interfaces entre
 o clássico e o moderno, e com as tradições vernáculas
-brasileiras --- vêm norteando minha atuação profissional
+brasileiras — vêm norteando minha atuação profissional
 desde então.
 
-
-Trajetória profissional
-=======================
+# Trajetória profissional
 
 A minha atuação profissional, em sua maior parte como
-professor do quadro permanente da Universidade de Brasília, 
+professor do quadro permanente da Universidade de Brasília,
 tem se caracterizado pela exploração de trocas culturais
 tanto do ponto de vista dos objetos de pesquisa quanto dos
 modos de atuação junto aos colaboradores.
 Dando continuidade à pesquisa desenvolvida durante o período
-de estágio doutoral "sanduíche" na França, desenvolvi
+de estágio doutoral “sanduíche” na França, desenvolvi
 pesquisas abordando as interações entre a arquitetura
 clássica do século XVII ao XIX e a crítica mais recente.
 Tal abordagem repercutiu tanto em âmbitos interdisciplinares,
@@ -86,8 +83,8 @@ como em livro coletivo publicado em parceria com
 historiadoras, quanto em fóruns internacionais,
 exemplificado pela minha participação regular nos congressos
 da International Association for the Study of Traditional
-Environments (IASTE) --- com sede na Universidade da
-Califórnia --- desde 2012 e em atividades científicas e de
+Environments (IASTE) — com sede na Universidade da
+Califórnia — desde 2012 e em atividades científicas e de
 capacitação profissional promovidas pelo International
 Network for Traditional Building, Architecture, and Urbanism
 (INTBAU), desde 2009.
@@ -116,12 +113,12 @@ e a universidade de Le Havre, que vem tendo continuidade
 no âmbito da pesquisa sobre a história e preservação da
 construção moderna após o meu retorno à UnB.
 
-Os contatos da FAU--UnB com a Europa, com minha participação
+Os contatos da FAU–UnB com a Europa, com minha participação
 ativa e inclusive no papel de executor de acordos
 e planos de trabalho conjuntos, têm sido ampliados
 e enriquecidos desde 2016, buscando-se estabelecer relações
 de parceria que superem a convencional dicotomia
-centro--periferia. Após meu retorno à UnB, de fato, tenho
+centro–periferia. Após meu retorno à UnB, de fato, tenho
 presidido a comissão de internacionalização da FAU
 e participado das reuniões de gestão da internacionalização
 junto à assessoria internacional da reitoria. Desde 2016,
@@ -145,7 +142,7 @@ projetos de pesquisa. O primeiro consistiu em levantamento
 bibliográfico junto à Biblioteca nacional da França,
 à biblioteca da Universidade de Paris VII e ao Centro de
 arquivos sobre a arquitetura do século XX, na Cité de
-l'Architecture et du Patrimoine, também em Paris, sobre
+l’Architecture et du Patrimoine, também em Paris, sobre
 temas atinentes à arquitetura e à construção no Brasil.
 O material coletado por essa ocasião vem sendo organizado
 com vistas à publicação de um livro monográfico sobre
@@ -169,9 +166,7 @@ apenas em produção científica, mas também na expansão de
 intercâmbio de discentes assim como de experiências
 pedagógicas.
 
-
-Projetos financiados
-====================
+# Projetos financiados
 
 Durante minha atuação profissional, coordenei cinco projetos
 financiados por órgãos brasileiros, bem como um projeto com
@@ -188,8 +183,8 @@ estatais de fomento à pesquisa da Itália.
 No período de
 2011 a 2014, quando coordenei pesquisas de documentação,
 interpretação e reconstituição do centro histórico de
-Planaltina --- núcleo urbano fundado no século XIX em Goiás
- --- obtive bolsas de iniciação científica como forma de
+Planaltina — núcleo urbano fundado no século XIX em Goiás
+— obtive bolsas de iniciação científica como forma de
 apoio ao projeto. Além disso, em 2012, coordenei, na
 qualidade de arquiteto consultor da empresa licitante,
 o Inventário do Setor Tradicional de Planaltina contratado
@@ -201,8 +196,8 @@ em 2015 no Prêmio da Nova Arquitetura de Brasília, conferido
 pelo Instituto de Arquitetos do Brasil. O resultado positivo
 de minha atividade de coordenação no Inventário de
 Planaltina resultou, subsequentemente, na minha contratação
-em 2013 como consultor --- mediante análise de *curriculum
-vitae* --- pela Secretaria de Estado de Turismo do Distrito
+em 2013 como consultor — mediante análise de *curriculum
+vitae* — pela Secretaria de Estado de Turismo do Distrito
 Federal para desenvolver os textos interpretativos, de
 caráter histórico-cultural e arquitetônico, para
 a divulgação do Conjunto Urbanístico de Brasília, patrimônio
@@ -220,17 +215,15 @@ auxílio financeiro da FAPDF e da CAPES.
 Paralelamente, como parte das atividades preparatórias
 à criação do grupo de pesquisa que atualmente coordeno,
 também coordenei, na qualidade de arquiteto consultor,
-o Inventário do Catetinho --- primeiro palácio presidencial
-de Brasília ---, em serviço de natureza técnico-científica
+o Inventário do Catetinho — primeiro palácio presidencial
+de Brasília —, em serviço de natureza técnico-científica
 contratado pelo Iphan.
 Todos os projetos citados, inclusive aqueles que envolveram
 consultoria a empresas na execução de serviços técnicos
 contratados pelo poder público, se rebateram em produção
 bibliográfica de caráter científico.
 
-
-Regularidade
-============
+# Regularidade
 
 A minha atuação profissional e científica tem se pautado
 pelo fio condutor das relações entre tradição e modernidade,
@@ -247,7 +240,7 @@ em preparação para o tempo que pretendo dedicar, em 2019
 e 2020, à finalização de um livro monográfico sobre a
 história da arquitetura brasileira no século XIX e Primeira
 República, resultando em provável queda no número de
-publicações de artigos e capítulos durante esse período --- 
+publicações de artigos e capítulos durante esse período —
 queda relativizada, porém, graças a um capítulo que já se
 encontra no prelo e outro em fase de revisão.
 
@@ -261,8 +254,8 @@ contribuição individual para o conhecimento científico.
 
 Também tenho atuado, em ciclos regulares, na organização
 e coordenação de eventos nacionais e internacionais, em 2011
- --- Workshop internacional Brasília 50+50 ---, 2014 ---
-XIII SHCU ---, 2017 --- seminário sobre história da
+— Workshop internacional Brasília 50+50 —, 2014 —
+XIII SHCU —, 2017 — seminário sobre história da
 construção organizado em parceria entre a UnB e a Université
-catholique de Louvain --- e, atualmente, participando da
+catholique de Louvain — e, atualmente, participando da
 coordenação geral do IV Enanparq a ser realizado em 2020.
